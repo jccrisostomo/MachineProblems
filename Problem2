@@ -71,7 +71,6 @@ int main()
     system("pause");
     
 	}
-// RUNNING BUT OUTPUT IS INCORRECT
 	
 
 
